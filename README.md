@@ -25,7 +25,7 @@ E-Commerce Sales Dashboard using SQL Server and Power BI | 100K+ orders analyzed
 
 
 ## SQL Queries
-- kpis.sql - Total orders, customers, revenue, AOV
-- monthly_revenue.sql - Month wise revenue trend
-- top_products.sql - Top 10 product categories
-- region_sales.sql - State wise revenue breakdown
+- kpi.sql - Total orders, customers, revenue, AOV
+- monthwise.sql - Month wise revenue trend
+- top10.sql - Top 10 product categories
+- regionwise.sql - State wise revenue breakdown
